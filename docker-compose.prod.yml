@@ -1,0 +1,19 @@
+version: '2'
+
+services:
+  frontend:
+    build:
+      context: .
+      dockerfile: ./compose/node/Dockerfile
+    ports:
+      - '8080:8080'
+  nginx:
+    restart: always
+    build: ./compose/nginx
+    volumes_from:
+      - node
+    depends_on:
+      - node
+    ports:
+      - "80:80"
+      - "443:443"

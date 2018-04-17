@@ -1,0 +1,14 @@
+FROM node:9.8.0
+
+RUN useradd --user-group --create-home --shell /bin/false app
+RUN npm install -g nodemon serve
+ENV HOME=/home/app
+
+COPY package.json $HOME/turbodl-backend/
+RUN chown -R app:app $HOME/*
+
+USER app
+WORKDIR $HOME/turbodl-backend
+RUN npm install
+
+CMD ["sh", "-c", "nodemon", "-e","&&", "serve", "-s", "-p", "8080", "build" ]
