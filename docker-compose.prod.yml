@@ -7,9 +7,4 @@ services:
       dockerfile: ./compose/node/Dockerfile
     ports:
       - '8080:8080'
-  nginx:
-    restart: always
-    build: ./compose/nginx
-    ports:
-      - "80:80"
-      - "443:443"
+    command: serve -s -p 8080 build
