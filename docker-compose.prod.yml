@@ -10,10 +10,6 @@ services:
   nginx:
     restart: always
     build: ./compose/nginx
-    volumes_from:
-      - node
-    depends_on:
-      - node
     ports:
       - "80:80"
       - "443:443"
