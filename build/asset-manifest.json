@@ -1,9 +1,10 @@
 {
   "main.css": "static/css/main.24ca2cd9.css",
   "main.css.map": "static/css/main.24ca2cd9.css.map",
-  "main.js": "static/js/main.df4be0c6.js",
-  "main.js.map": "static/js/main.df4be0c6.js.map",
+  "main.js": "static/js/main.3460fea1.js",
+  "main.js.map": "static/js/main.3460fea1.js.map",
   "static/media/turbo-close.svg": "static/media/turbo-close.d09dde0b.svg",
   "static/media/turbodl-net.svg": "static/media/turbodl-net.f1f5dcaa.svg",
-  "static/media/turbodl-new.svg": "static/media/turbodl-new.ff542f4f.svg"
+  "static/media/turbodl-new.svg": "static/media/turbodl-new.ff542f4f.svg",
+  "static/media/turbodl.net.png": "static/media/turbodl.net.340c2d9d.png"
 }
