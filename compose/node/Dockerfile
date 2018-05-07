@@ -1,7 +1,7 @@
 FROM node:8.10.0
 
 RUN useradd --user-group --create-home --shell /bin/false app &&\
-  npm install -g pm2 serve@6.5.3
+  npm install -g pm2 serve
 
 ENV HOME=/home/app
 COPY package.json $HOME/turbodl-backend/
