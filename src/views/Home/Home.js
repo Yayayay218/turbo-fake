@@ -12,6 +12,7 @@ class Home extends Component {
         this.state = {
             initStepIndex: 0,
         }
+
         this.onUnload = this.onUnload.bind(this)
         const parsed = qs.parse(props.location.search);
         if (parsed.token === 'e9adebad-a22b-4de8-b13b-d18ce2624e4d')
