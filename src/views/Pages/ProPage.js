@@ -1,5 +1,4 @@
 import React, {Component} from 'react'
-import Logo from '../../assets/images/turbodl.net.png'
 import Star from '../../assets/images/star-icon.svg'
 import axios from "axios/index";
 
@@ -15,7 +14,8 @@ class ProPage extends Component {
     componentDidMount() {
         axios.get('http://astraler.com/turbodl/turbodlwebview.json')
             .then(res => {
-                if (res.webviewnumbertobify !== 1)
+                console.log(res)
+                if (res.data.webviewnumbertobify !== 1)
                     this.setState({
                         initWebView: 2
                     })

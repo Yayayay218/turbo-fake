@@ -14,7 +14,7 @@ class FreePage extends Component {
     componentDidMount() {
         axios.get('http://astraler.com/turbodl/turbodlwebview.json')
             .then(res => {
-                if (res.webviewnumbertobify !== 1)
+                if (res.data.webviewnumbertobify !== 1)
                     this.setState({
                         initWebView: 2
                     })
