@@ -18,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FreePage.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FreePage.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/views/Pages/FreePage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+            <state relative-caret-position="273">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="61" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -30,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProPage.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ProPage.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/views/Pages/ProPage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+            <state relative-caret-position="294">
+              <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -170,8 +170,8 @@
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/views/Home/Home.js" />
         <option value="$PROJECT_DIR$/src/App.less" />
-        <option value="$PROJECT_DIR$/src/views/Pages/ProPage.js" />
         <option value="$PROJECT_DIR$/src/views/Pages/FreePage.js" />
+        <option value="$PROJECT_DIR$/src/views/Pages/ProPage.js" />
       </list>
     </option>
   </component>
@@ -194,10 +194,9 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="650" />
-    <option name="y" value="25" />
-    <option name="width" value="1270" />
-    <option name="height" value="951" />
+    <option name="y" value="24" />
+    <option name="width" value="1304" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -213,6 +212,17 @@
               <item name="turbodl-frontend" type="b2602c69:ProjectViewProjectNode" />
               <item name="turbodl-frontend" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="turbodl-frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="turbodl-frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="turbodl-frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="turbodl-frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -222,7 +232,7 @@
   <component name="PropertiesComponent">
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../02_Turbodl/turbodl-webapp" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
@@ -395,7 +405,8 @@
       <workItem from="1525833999337" duration="2624000" />
       <workItem from="1525935320391" duration="8000" />
       <workItem from="1525935465924" duration="9000" />
-      <workItem from="1525945603667" duration="1414000" />
+      <workItem from="1525945603667" duration="2532000" />
+      <workItem from="1525948388994" duration="595000" />
     </task>
     <task id="LOCAL-00001" summary="updated ui">
       <created>1525663447434</created>
@@ -408,7 +419,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="285459000" />
+    <option name="totallyTimeSpent" value="287172000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
@@ -783,6 +794,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="277">
           <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Pages/FreePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="61" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
@@ -791,18 +809,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/views/Pages/ProPage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/Pages/FreePage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        <state relative-caret-position="294">
+          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>

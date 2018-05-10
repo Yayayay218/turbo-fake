@@ -12,9 +12,8 @@ class ProPage extends Component {
     }
 
     componentDidMount() {
-        axios.get('http://astraler.com/turbodl/turbodlwebview.json')
+        axios.get('https://www.videodl.net/api/videos/getJson')
             .then(res => {
-                console.log(res)
                 if (res.data.webviewnumbertobify !== 1)
                     this.setState({
                         initWebView: 2

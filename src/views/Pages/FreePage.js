@@ -12,7 +12,7 @@ class FreePage extends Component {
     }
 
     componentDidMount() {
-        axios.get('http://astraler.com/turbodl/turbodlwebview.json')
+        axios.get('https://www.videodl.net/api/videos/getJson')
             .then(res => {
                 if (res.data.webviewnumbertobify !== 1)
                     this.setState({
