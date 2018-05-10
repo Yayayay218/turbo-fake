@@ -1,7 +1,27 @@
 import React, {Component} from 'react'
 import Star from '../../assets/images/star-icon.svg'
+import axios from 'axios'
 
 class FreePage extends Component {
+    constructor(props) {
+        super(props)
+
+        this.state = {
+            initWebView: 1
+        }
+    }
+
+    componentDidMount() {
+        axios.get('http://astraler.com/turbodl/turbodlwebview.json')
+            .then(res => {
+                if (res.webviewnumbertobify !== 1)
+                    this.setState({
+                        initWebView: 2
+                    })
+            })
+            .catch(err => console.log(err))
+    }
+
     render() {
         return (
             <div className="container" style={{textAlign: 'center'}}>
@@ -29,17 +49,19 @@ class FreePage extends Component {
                         </button>
                     </div>
                 </div>
-
-                <div className="row">
-                    <div className="col-12">
-                        <button
-                            className="btn btn-rate-it"
-                            onClick={() => window.location.href = 'https://videodl.net?tokens=e9adebad-a22b-4de8-b13b-d18ce2624e4d'}
-                        >
-                            Website
-                        </button>
+                {
+                    this.state.initWebView === 1 &&
+                    <div className="row">
+                        <div className="col-12">
+                            <button
+                                className="btn btn-rate-it"
+                                onClick={() => window.location.href = 'https://videodl.net?tokens=e9adebad-a22b-4de8-b13b-d18ce2624e4d'}
+                            >
+                                Website
+                            </button>
+                        </div>
                     </div>
-                </div>
+                }
 
                 <div className="row">
                     <div className="col-12">
