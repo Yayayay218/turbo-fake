@@ -15,8 +15,8 @@ class Home extends Component {
 
         this.onUnload = this.onUnload.bind(this)
         const parsed = qs.parse(props.location.search);
-        if (parsed.tokens === 'e9adebad-a22b-4de8-b13b-d18ce2624e4d')
-            this.props.dispatch(Actions.authenticated())
+        // if (parsed.tokens === 'e9adebad-a22b-4de8-b13b-d18ce2624e4d')
+        this.props.dispatch(Actions.authenticated())
     }
 
     componentDidMount() {
