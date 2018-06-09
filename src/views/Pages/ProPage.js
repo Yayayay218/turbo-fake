@@ -34,7 +34,7 @@ class ProPage extends Component {
                 <div className="row">
                     <div className="col-12">
                         <p className="rate-app">
-                            If you like the app, please <br/> rate it on Appstore
+                            Do you like the app? <br/> Let us know your feedback
                         </p>
                     </div>
                 </div>
@@ -43,9 +43,9 @@ class ProPage extends Component {
                     <div className="col-12">
                         <button
                             className="btn btn-rate-app"
-                            onClick={() => window.location.href = 'https://itunes.apple.com/app/id1377075001'}
+                            onClick={() => window.location.href = 'mailto:tobifyapp@gmail.com'}
                         >
-                            Rate Tobify
+                            Send Feedback
                         </button>
                     </div>
                 </div>
@@ -66,7 +66,7 @@ class ProPage extends Component {
                 <div className="row">
                     <div className="col-12">
                         <p className="feedback">
-                            For any support or feedback, please <br/> email us at <a href="mailto:tobifyapp@gmail.com"
+                            If you need help or support <br/> please email us at <a href="mailto:tobifyapp@gmail.com"
                                                                                      className="mailto">tobifyapp@gmail.com</a>
                         </p>
                     </div>
