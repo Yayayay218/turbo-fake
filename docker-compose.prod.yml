@@ -13,6 +13,8 @@ services:
     build:
       context: .
       dockerfile: ./compose/nginx/Dockerfile
+    volumes:
+      - /root/www/data:/www/data
     ports:
       - "80:80"
       - "443:443"
