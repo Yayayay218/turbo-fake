@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd286d3b-be8d-4ed9-b6f8-3afa78a30fbb" name="Default" comment="updated ui">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/compose/nginx/conf.d/livematch-backend.conf" beforeDir="false" afterPath="$PROJECT_DIR$/compose/nginx/conf.d/livematch-backend.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compose/nginx/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/compose/nginx/Dockerfile" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -71,11 +70,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="livematch-backend.conf" pinned="false" current-in-tab="true">
+      <file leaf-file-name="livematch-backend.conf" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/compose/nginx/conf.d/livematch-backend.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+            <state relative-caret-position="315">
+              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/compose/nginx/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -94,15 +102,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="10521">
               <caret line="501" column="28" selection-start-line="501" selection-start-column="28" selection-end-line="501" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProPage.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/views/Pages/ProPage.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1386">
-              <caret line="68" column="68" selection-start-line="68" selection-start-column="68" selection-end-line="68" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -156,7 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/containers/App.js" />
         <option value="$PROJECT_DIR$/src/containers/Matches/ListMatches.js" />
         <option value="$PROJECT_DIR$/src/containers/Matches/LiveStream.js" />
         <option value="$PROJECT_DIR$/src/containers/Matches/LivesteamDetail.js" />
@@ -207,6 +205,7 @@
         <option value="$PROJECT_DIR$/src/views/Pages/FreePage.js" />
         <option value="$PROJECT_DIR$/src/App.less" />
         <option value="$PROJECT_DIR$/compose/nginx/conf.d/livematch-backend.conf" />
+        <option value="$PROJECT_DIR$/compose/nginx/Dockerfile" />
       </list>
     </option>
   </component>
@@ -466,7 +465,7 @@
       <workItem from="1526521017630" duration="3000" />
       <workItem from="1528553336956" duration="1075000" />
       <workItem from="1528681073203" duration="97000" />
-      <workItem from="1529025769639" duration="114000" />
+      <workItem from="1529025769639" duration="366000" />
     </task>
     <task id="LOCAL-00001" summary="updated ui">
       <created>1525663447434</created>
@@ -479,7 +478,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="291249000" />
+    <option name="totallyTimeSpent" value="291501000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="878" extended-state="0" />
@@ -753,13 +752,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/compose/nginx/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docker-compose.prod.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -860,8 +852,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/compose/nginx/conf.d/livematch-backend.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        <state relative-caret-position="315">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compose/nginx/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
