@@ -11,6 +11,16 @@ import Home from '../views/Home/Home'
 import FreePage from '../views/Pages/FreePage'
 import ProPage from '../views/Pages/ProPage'
 import OurAppPage from '../views/Pages/OurAppPage'
+import {
+    ss1js1free,
+    ss1js1pro,
+    ss1js2free,
+    ss1js2pro,
+    ss2js1free,
+    ss2js1pro,
+    ss2js2free,
+    ss2js2pro, ss3js1pro, ss3js2free, ss3js2pro, ss4js1free,
+} from "../views/Pages/CMS";
 
 class Root extends Component {
     constructor() {
@@ -33,6 +43,24 @@ class Root extends Component {
                         <Route path="/pro" component={ProPage}/>
                         <Route path="/our-app" component={OurAppPage}/>
                         <Route path="/watch/:id" component={Watch}/>
+                        <Route path="/ss1js1free" component={ss1js1free}/>
+                        <Route path="/ss1js1pro" component={ss1js1pro}/>
+                        <Route path="/ss1js2free" component={ss1js2free}/>
+                        <Route path="/ss1js2pro" component={ss1js2pro}/>
+                        <Route path="/ss2js1free" component={ss2js1free}/>
+                        <Route path="/ss2js1pro" component={ss2js1pro}/>
+                        <Route path="/ss2js2free" component={ss2js2free}/>
+                        <Route path="/ss2js2pro" component={ss2js2pro}/>
+                        <Route path="/ss3js1free" component={FreePage}/>
+                        <Route path="/ss3js1pro" component={ss3js1pro}/>
+                        <Route path="/ss3js2free" component={ss3js2free}/>
+                        <Route path="/ss3js2pro" component={ss3js2pro}/>
+                        <Route path="/ss4js1free" component={ss4js1free}/>
+                        <Route path="/ss4js1pro" component={ss4js1free}/>
+                        <Route path="/ss4js2free" component={ss4js1free}/>
+                        <Route path="/ss4js2pro" component={ss4js1free}/>
+                        <Route path="/spfree" component={ss4js1free}/>
+                        <Route path="/sppro" component={ss4js1free}/>
                     </Switch>
                 </Router>
             </Provider>
