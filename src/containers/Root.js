@@ -12,6 +12,7 @@ import FreePage from '../views/Pages/FreePage'
 import ProPage from '../views/Pages/ProPage'
 import OurAppPage from '../views/Pages/OurAppPage'
 import {
+    oldvergb, oldvergl,
     ss1js1free,
     ss1js1pro,
     ss1js2free,
@@ -61,6 +62,8 @@ class Root extends Component {
                         <Route path="/ss4js2pro" component={ss4js1free}/>
                         <Route path="/spfree" component={ss4js1free}/>
                         <Route path="/sppro" component={ss4js1free}/>
+                        <Route path="/oldvergb" component={oldvergb}/>
+                        <Route path="/oldvergl" component={oldvergl}/>
                     </Switch>
                 </Router>
             </Provider>

@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd286d3b-be8d-4ed9-b6f8-3afa78a30fbb" name="Default" comment="updated ui">
-      <change afterPath="$PROJECT_DIR$/src/views/Pages/CMS.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/Root.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Root.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Pages/CMS.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Pages/CMS.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,8 +21,8 @@
       <file leaf-file-name="CMS.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/views/Pages/CMS.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="400" column="50" selection-start-line="400" selection-start-column="50" selection-end-line="400" selection-end-column="50" />
+            <state relative-caret-position="356">
+              <caret line="671" column="22" lean-forward="true" selection-start-line="671" selection-start-column="22" selection-end-line="671" selection-end-column="22" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -33,29 +33,8 @@
       <file leaf-file-name="Root.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/containers/Root.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="55" column="68" lean-forward="true" selection-start-line="55" selection-start-column="68" selection-end-line="55" selection-end-column="68" />
-              <folding>
-                <element signature="e#0#38#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProPage.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/views/Pages/ProPage.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1096">
-              <caret line="69" column="127" lean-forward="true" selection-start-line="68" selection-start-column="81" selection-end-line="69" selection-end-column="127" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FreePage.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/views/Pages/FreePage.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="31" column="22" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="31" selection-end-column="22" />
+            <state relative-caret-position="198">
+              <caret line="65" column="46" selection-start-line="65" selection-start-column="46" selection-end-line="65" selection-end-column="46" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -211,30 +190,6 @@
             <path>
               <item name="turbo-fake" type="b2602c69:ProjectViewProjectNode" />
               <item name="turbo-fake" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="turbo-fake" type="b2602c69:ProjectViewProjectNode" />
-              <item name="turbo-fake" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="turbo-fake" type="b2602c69:ProjectViewProjectNode" />
-              <item name="turbo-fake" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="containers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="turbo-fake" type="b2602c69:ProjectViewProjectNode" />
-              <item name="turbo-fake" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="turbo-fake" type="b2602c69:ProjectViewProjectNode" />
-              <item name="turbo-fake" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="Pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -430,7 +385,8 @@
       <workItem from="1528553336956" duration="1075000" />
       <workItem from="1528681073203" duration="97000" />
       <workItem from="1529025769639" duration="1808000" />
-      <workItem from="1530771208309" duration="2022000" />
+      <workItem from="1530771208309" duration="2258000" />
+      <workItem from="1530870106116" duration="1339000" />
     </task>
     <task id="LOCAL-00001" summary="updated ui">
       <created>1525663447434</created>
@@ -443,7 +399,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="294965000" />
+    <option name="totallyTimeSpent" value="296540000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="878" extended-state="0" />
@@ -453,13 +409,13 @@
       <window_info anchor="bottom" id="TODO" order="9" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="5" />
-      <window_info id="npm" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.32900944" />
+      <window_info id="npm" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="5" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.33674777" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TypeScript" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -803,15 +759,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/views/Pages/ProPage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1096">
-          <caret line="69" column="127" lean-forward="true" selection-start-line="68" selection-start-column="81" selection-end-line="69" selection-end-column="127" />
+        <state relative-caret-position="1407">
+          <caret line="69" column="127" selection-start-line="68" selection-start-column="81" selection-end-line="69" selection-end-column="127" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/views/Pages/FreePage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="31" column="22" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="31" selection-end-column="22" />
+        <state relative-caret-position="609">
+          <caret line="31" column="22" selection-start-line="27" selection-start-column="12" selection-end-line="31" selection-end-column="22" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
@@ -820,8 +776,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/containers/Root.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="55" column="68" lean-forward="true" selection-start-line="55" selection-start-column="68" selection-end-line="55" selection-end-column="68" />
+        <state relative-caret-position="198">
+          <caret line="65" column="46" selection-start-line="65" selection-start-column="46" selection-end-line="65" selection-end-column="46" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
@@ -830,8 +786,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/views/Pages/CMS.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="400" column="50" selection-start-line="400" selection-start-column="50" selection-end-line="400" selection-end-column="50" />
+        <state relative-caret-position="356">
+          <caret line="671" column="22" lean-forward="true" selection-start-line="671" selection-start-column="22" selection-end-line="671" selection-end-column="22" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
