@@ -531,11 +531,11 @@ export const ss4js1free = () => {
 
 export const oldvergb = () => {
     return (
-        <div className="container" style={{textAlign: 'center', marginTop: '50px'}}>
+        <div className="container" style={{textAlign: 'left', marginTop: '50px'}}>
 
             <div className="row">
                 <div className="col-12">
-                    <p className="rate-app">
+                    <p className="rate-app" style={{textAlign: 'left'}}>
                         <strong>HOW TO USE THIS APP?</strong>
                         <br/>
                         <br/>
@@ -549,47 +549,17 @@ export const oldvergb = () => {
                     </p>
                 </div>
             </div>
-
-            {/*<div className="row">*/}
-                {/*<div className="col-12">*/}
-                    {/*<button*/}
-                        {/*className="btn btn-rate-it"*/}
-                        {/*onClick={() => window.location.href = 'https://itunes.apple.com/app/id1377075001'}*/}
-                    {/*>*/}
-                        {/*RATE IT*/}
-                    {/*</button>*/}
-                {/*</div>*/}
-            {/*</div>*/}
-
-            {/*<div className="row">*/}
-            {/*<div className="col-12">*/}
-            {/*<button*/}
-            {/*className="btn btn-rate-it"*/}
-            {/*onClick={() => window.location.href = 'mailto:huongdevapp@gmail.com'}*/}
-            {/*>*/}
-            {/*CUSTOMER SUPPORT*/}
-            {/*</button>*/}
-            {/*</div>*/}
-            {/*</div>*/}
-
-            {/*<div className="row">*/}
-            {/*<div className="col-12">*/}
-            {/*<p className="feedback">*/}
-            {/*We will reply within 12 hours*/}
-            {/*</p>*/}
-            {/*</div>*/}
-            {/*</div>*/}
         </div>
     )
 }
 
 export const oldvergl = () => {
     return (
-        <div className="container" style={{textAlign: 'center', marginTop: '50px'}}>
+        <div className="container" style={{textAlign: 'left', marginTop: '50px'}}>
 
             <div className="row">
                 <div className="col-12">
-                    <p className="rate-app">
+                    <p className="rate-app" style={{textAlign: 'left'}}>
                         <strong>HOW TO USE THIS APP?</strong>
                         <br/>
                         <br/>
@@ -606,7 +576,13 @@ export const oldvergl = () => {
 
             <div className="row">
                 <div className="col-12">
-                    <p className="rate-app">
+                    ====
+                </div>
+            </div>
+
+            <div className="row">
+                <div className="col-12">
+                    <p className="rate-app" style={{textAlign: 'left'}}>
                         <strong>COMO USAR ESTE APLICATIVO?</strong>
                         <br/>
                         <br/>
@@ -620,10 +596,14 @@ export const oldvergl = () => {
                     </p>
                 </div>
             </div>
-
             <div className="row">
                 <div className="col-12">
-                    <p className="rate-app">
+                    ====
+                </div>
+            </div>
+            <div className="row">
+                <div className="col-12">
+                    <p className="rate-app" style={{textAlign: 'left'}}>
                         <strong>¿CÓMO USAR ESTA APLICACIÓN?</strong>
                         <br/>
                         <br/>
@@ -637,10 +617,14 @@ export const oldvergl = () => {
                     </p>
                 </div>
             </div>
-
             <div className="row">
                 <div className="col-12">
-                    <p className="rate-app">
+                    ====
+                </div>
+            </div>
+            <div className="row">
+                <div className="col-12">
+                    <p className="rate-app" style={{textAlign: 'left'}}>
                         <strong>BU APP KULLANIMI NASIL?</strong>
                         <br/>
                         <br/>
@@ -654,10 +638,14 @@ export const oldvergl = () => {
                     </p>
                 </div>
             </div>
-
             <div className="row">
                 <div className="col-12">
-                    <p className="rate-app">
+                    ====
+                </div>
+            </div>
+            <div className="row">
+                <div className="col-12">
+                    <p className="rate-app" style={{textAlign: 'left'}}>
                         <strong>كيفية استخدام هذا التطبيق؟</strong>
                         <br/>
                         <br/>
@@ -671,10 +659,14 @@ export const oldvergl = () => {
                     </p>
                 </div>
             </div>
-
             <div className="row">
                 <div className="col-12">
-                    <p className="rate-app">
+                    ====
+                </div>
+            </div>
+            <div className="row">
+                <div className="col-12">
+                    <p className="rate-app" style={{textAlign: 'left'}}>
                         <strong>КАК ИСПОЛЬЗОВАТЬ ЭТО ПРИЛОЖЕНИЕ?</strong>
                         <br/>
                         <br/>
@@ -688,10 +680,14 @@ export const oldvergl = () => {
                     </p>
                 </div>
             </div>
-
             <div className="row">
                 <div className="col-12">
-                    <p className="rate-app">
+                    ====
+                </div>
+            </div>
+            <div className="row">
+                <div className="col-12">
+                    <p className="rate-app" style={{textAlign: 'left'}}>
                         <strong>Comment utiliser cette application?</strong>
                         <br/>
                         <br/>
@@ -706,35 +702,6 @@ export const oldvergl = () => {
                 </div>
             </div>
 
-            {/*<div className="row">*/}
-            {/*<div className="col-12">*/}
-            {/*<button*/}
-            {/*className="btn btn-rate-it"*/}
-            {/*onClick={() => window.location.href = 'https://itunes.apple.com/app/id1377075001'}*/}
-            {/*>*/}
-            {/*RATE IT*/}
-            {/*</button>*/}
-            {/*</div>*/}
-            {/*</div>*/}
-
-            {/*<div className="row">*/}
-            {/*<div className="col-12">*/}
-            {/*<button*/}
-            {/*className="btn btn-rate-it"*/}
-            {/*onClick={() => window.location.href = 'mailto:huongdevapp@gmail.com'}*/}
-            {/*>*/}
-            {/*CUSTOMER SUPPORT*/}
-            {/*</button>*/}
-            {/*</div>*/}
-            {/*</div>*/}
-
-            {/*<div className="row">*/}
-            {/*<div className="col-12">*/}
-            {/*<p className="feedback">*/}
-            {/*We will reply within 12 hours*/}
-            {/*</p>*/}
-            {/*</div>*/}
-            {/*</div>*/}
         </div>
     )
 }
