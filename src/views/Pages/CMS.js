@@ -706,3 +706,21 @@ export const oldvergl = () => {
         </div>
     )
 }
+
+export const tutolanding = () => {
+    return (
+        <div className="container" style={{textAlign: 'center', marginTop: '50px'}}>
+
+            <div className="row">
+                <div className="col-12">
+                    <button
+                        className="btn btn-rate-it"
+                        onClick={() => window.location.href = 'https://turbodl.net/oldvergl'}
+                    >
+                        TUTORIALS
+                    </button>
+                </div>
+            </div>
+        </div>
+    )
+}

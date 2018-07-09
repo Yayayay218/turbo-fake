@@ -20,7 +20,7 @@ import {
     ss2js1free,
     ss2js1pro,
     ss2js2free,
-    ss2js2pro, ss3js1pro, ss3js2free, ss3js2pro, ss4js1free,
+    ss2js2pro, ss3js1pro, ss3js2free, ss3js2pro, ss4js1free, tutolanding,
 } from "../views/Pages/CMS";
 
 class Root extends Component {
@@ -64,6 +64,7 @@ class Root extends Component {
                         <Route path="/sppro" component={ss4js1free}/>
                         <Route path="/oldvergb" component={oldvergb}/>
                         <Route path="/oldvergl" component={oldvergl}/>
+                        <Route path="/tutolanding" component={tutolanding}/>
                     </Switch>
                 </Router>
             </Provider>

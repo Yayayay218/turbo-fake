@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fd286d3b-be8d-4ed9-b6f8-3afa78a30fbb" name="Default" comment="updated ui">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Root.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Root.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/views/Pages/CMS.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Pages/CMS.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,23 +18,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CMS.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CMS.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/views/Pages/CMS.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="694" column="113" selection-start-line="694" selection-start-column="113" selection-end-line="694" selection-end-column="113" />
+            <state relative-caret-position="41">
+              <caret line="709" column="24" selection-start-line="709" selection-start-column="13" selection-end-line="709" selection-end-column="24" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
+                <element signature="e#18571#19490#0" />
+                <element signature="e#19522#25299#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Root.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Root.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/containers/Root.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="59" column="18" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
+            <state relative-caret-position="330">
+              <caret line="66" column="49" selection-start-line="66" selection-start-column="49" selection-end-line="66" selection-end-column="49" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -140,8 +143,8 @@
         <option value="$PROJECT_DIR$/compose/nginx/conf.d/livematch-backend.conf" />
         <option value="$PROJECT_DIR$/compose/nginx/Dockerfile" />
         <option value="$PROJECT_DIR$/docker-compose.prod.yml" />
-        <option value="$PROJECT_DIR$/src/containers/Root.js" />
         <option value="$PROJECT_DIR$/src/views/Pages/CMS.js" />
+        <option value="$PROJECT_DIR$/src/containers/Root.js" />
       </list>
     </option>
   </component>
@@ -387,7 +390,8 @@
       <workItem from="1530771208309" duration="2258000" />
       <workItem from="1530870106116" duration="2345000" />
       <workItem from="1531099831916" duration="15000" />
-      <workItem from="1531124760816" duration="366000" />
+      <workItem from="1531124760816" duration="1279000" />
+      <workItem from="1531128951382" duration="85000" />
     </task>
     <task id="LOCAL-00001" summary="updated ui">
       <created>1525663447434</created>
@@ -400,7 +404,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="297927000" />
+    <option name="totallyTimeSpent" value="298925000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="878" extended-state="0" />
@@ -772,22 +776,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/Root.js">
+    <entry file="file://$PROJECT_DIR$/src/views/Pages/CMS.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="59" column="18" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
+        <state relative-caret-position="41">
+          <caret line="709" column="24" selection-start-line="709" selection-start-column="13" selection-end-line="709" selection-end-column="24" />
           <folding>
-            <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#18571#19490#0" />
+            <element signature="e#19522#25299#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/Pages/CMS.js">
+    <entry file="file://$PROJECT_DIR$/src/containers/Root.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="694" column="113" selection-start-line="694" selection-start-column="113" selection-end-line="694" selection-end-column="113" />
+        <state relative-caret-position="330">
+          <caret line="66" column="49" selection-start-line="66" selection-start-column="49" selection-end-line="66" selection-end-column="49" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
