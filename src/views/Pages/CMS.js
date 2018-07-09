@@ -539,7 +539,8 @@ export const oldvergb = () => {
                         <strong>HOW TO USE THIS APP?</strong>
                         <br/>
                         <br/>
-                        1. Upgrade the new <a href="https://itunes.apple.com/app/id1377075001" className="mailto">version 1.2</a>
+                        1. Delete the current Tobify app and redownload it again from App Store
+                        {/*1. Upgrade the new <a href="https://itunes.apple.com/app/id1377075001" className="mailto">version 1.2</a>*/}
                         <br/>
                         <br/>
                         2. On the new version, create a playlist named "DL"
@@ -563,7 +564,7 @@ export const oldvergl = () => {
                         <strong>HOW TO USE THIS APP?</strong>
                         <br/>
                         <br/>
-                        1. Upgrade the new <a href="https://itunes.apple.com/app/id1377075001" className="mailto">version 1.2</a>
+                        1. Delete the current Tobify app and redownload it again from App Store
                         <br/>
                         <br/>
                         2. On the new version, create a playlist named "Tobify"
@@ -586,7 +587,7 @@ export const oldvergl = () => {
                         <strong>COMO USAR ESTE APLICATIVO?</strong>
                         <br/>
                         <br/>
-                        1. Atualize a nova <a href="https://itunes.apple.com/app/id1377075001" className="mailto">versão 1.2</a>
+                        1. Exclua o aplicativo Tobify atual e faça o download novamente da App Store
                         <br/>
                         <br/>
                         2. Na nova versão, crie uma lista de reprodução chamada "Tobify"
@@ -607,7 +608,7 @@ export const oldvergl = () => {
                         <strong>¿CÓMO USAR ESTA APLICACIÓN?</strong>
                         <br/>
                         <br/>
-                        1. Actualiza la nueva <a href="https://itunes.apple.com/app/id1377075001" className="mailto">versión 1.2</a>
+                        1. Elimine la aplicación Tobify actual y vuelva a descargarla de la App Store
                         <br/>
                         <br/>
                         2. En la nueva versión, crea una lista de reproducción llamada "Tobify"
@@ -628,7 +629,7 @@ export const oldvergl = () => {
                         <strong>BU APP KULLANIMI NASIL?</strong>
                         <br/>
                         <br/>
-                        1. Yeni sürümü <a href="https://itunes.apple.com/app/id1377075001" className="mailto">1.2 yükseltin</a>
+                        1. Geçerli Tobify uygulamasını silin ve tekrar App Store'dan yeniden indirin.
                         <br/>
                         <br/>
                         2. Yeni sürümde, "Tobify" adlı bir oynatma listesi oluşturun.
@@ -649,7 +650,7 @@ export const oldvergl = () => {
                         <strong>كيفية استخدام هذا التطبيق؟</strong>
                         <br/>
                         <br/>
-                        <a href="https://itunes.apple.com/app/id1377075001" className="mailto">1.2 </a> 1. قم بترقية الإصدار الجديد
+                        1. احذف تطبيق Tobify الحالي وأعد تنزيله مرة أخرى من App Store
                         <br/>
                         <br/>
                         2. في الإصدار الجديد ، أنشئ قائمة تشغيل باسم "Tobify"
@@ -670,7 +671,7 @@ export const oldvergl = () => {
                         <strong>КАК ИСПОЛЬЗОВАТЬ ЭТО ПРИЛОЖЕНИЕ?</strong>
                         <br/>
                         <br/>
-                        1. Обновите новую <a href="https://itunes.apple.com/app/id1377075001" className="mailto">версию 1.2</a>
+                        1. Удалите текущее приложение Tobify и снова загрузите его из App Store.
                         <br/>
                         <br/>
                         2. В новой версии создайте плейлист под названием «Tobify»
@@ -691,7 +692,7 @@ export const oldvergl = () => {
                         <strong>Comment utiliser cette application?</strong>
                         <br/>
                         <br/>
-                        1. Mettez à niveau la nouvelle <a href="https://itunes.apple.com/app/id1377075001" className="mailto">версию 1.2</a>
+                        1. Supprimez l'application actuelle Tobify et téléchargez-la à nouveau depuis l'App Store
                         <br/>
                         <br/>
                         2. Sur la nouvelle version, créez une playlist nommée "Tobify"
