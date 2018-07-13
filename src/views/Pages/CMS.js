@@ -539,7 +539,7 @@ export const oldvergb = () => {
                         <strong>HOW TO USE THIS APP?</strong>
                         <br/>
                         <br/>
-                        1. Delete the current Tobify app and redownload it again from App Store
+                        1. Upgrade Tobify app to version 1.2
                         {/*1. Upgrade the new <a href="https://itunes.apple.com/app/id1377075001" className="mailto">version 1.2</a>*/}
                         <br/>
                         <br/>
@@ -557,14 +557,13 @@ export const oldvergb = () => {
 export const oldvergl = () => {
     return (
         <div className="container" style={{textAlign: 'left', marginTop: '50px'}}>
-
             <div className="row">
                 <div className="col-12">
                     <p className="rate-app" style={{textAlign: 'left'}}>
                         <strong>HOW TO USE THIS APP?</strong>
                         <br/>
                         <br/>
-                        1. Delete the current Tobify app and redownload it again from App Store
+                        1. Upgrade Tobify app to version 1.2
                         <br/>
                         <br/>
                         2. On the new version, create a playlist named "Tobify"
@@ -587,7 +586,7 @@ export const oldvergl = () => {
                         <strong>COMO USAR ESTE APLICATIVO?</strong>
                         <br/>
                         <br/>
-                        1. Exclua o aplicativo Tobify atual e faça o download novamente da App Store
+                        1. Atualize o aplicativo Tobify para a versão 1.2
                         <br/>
                         <br/>
                         2. Na nova versão, crie uma lista de reprodução chamada "Tobify"
@@ -597,18 +596,20 @@ export const oldvergl = () => {
                     </p>
                 </div>
             </div>
+
             <div className="row">
                 <div className="col-12">
                     ====
                 </div>
             </div>
+
             <div className="row">
                 <div className="col-12">
                     <p className="rate-app" style={{textAlign: 'left'}}>
                         <strong>¿CÓMO USAR ESTA APLICACIÓN?</strong>
                         <br/>
                         <br/>
-                        1. Elimine la aplicación Tobify actual y vuelva a descargarla de la App Store
+                        1. Actualiza la aplicación Tobify a la versión 1.2
                         <br/>
                         <br/>
                         2. En la nueva versión, crea una lista de reproducción llamada "Tobify"
@@ -618,18 +619,20 @@ export const oldvergl = () => {
                     </p>
                 </div>
             </div>
+
             <div className="row">
                 <div className="col-12">
                     ====
                 </div>
             </div>
+
             <div className="row">
                 <div className="col-12">
                     <p className="rate-app" style={{textAlign: 'left'}}>
                         <strong>BU APP KULLANIMI NASIL?</strong>
                         <br/>
                         <br/>
-                        1. Geçerli Tobify uygulamasını silin ve tekrar App Store'dan yeniden indirin.
+                        1. Uygulamayı sürüm 1.2'ye bağla
                         <br/>
                         <br/>
                         2. Yeni sürümde, "Tobify" adlı bir oynatma listesi oluşturun.
@@ -639,18 +642,20 @@ export const oldvergl = () => {
                     </p>
                 </div>
             </div>
+
             <div className="row">
                 <div className="col-12">
                     ====
                 </div>
             </div>
+
             <div className="row">
                 <div className="col-12">
                     <p className="rate-app" style={{textAlign: 'left'}}>
                         <strong>كيفية استخدام هذا التطبيق؟</strong>
                         <br/>
                         <br/>
-                        1. احذف تطبيق Tobify الحالي وأعد تنزيله مرة أخرى من App Store
+                        1. قم بترقية تطبيق Tobify إلى الإصدار 1.2
                         <br/>
                         <br/>
                         2. في الإصدار الجديد ، أنشئ قائمة تشغيل باسم "Tobify"
@@ -660,18 +665,20 @@ export const oldvergl = () => {
                     </p>
                 </div>
             </div>
+
             <div className="row">
                 <div className="col-12">
                     ====
                 </div>
             </div>
+
             <div className="row">
                 <div className="col-12">
                     <p className="rate-app" style={{textAlign: 'left'}}>
                         <strong>КАК ИСПОЛЬЗОВАТЬ ЭТО ПРИЛОЖЕНИЕ?</strong>
                         <br/>
                         <br/>
-                        1. Удалите текущее приложение Tobify и снова загрузите его из App Store.
+                        1. Обновите приложение Tobify до версии 1.2
                         <br/>
                         <br/>
                         2. В новой версии создайте плейлист под названием «Tobify»
@@ -681,18 +688,20 @@ export const oldvergl = () => {
                     </p>
                 </div>
             </div>
+
             <div className="row">
                 <div className="col-12">
                     ====
                 </div>
             </div>
+
             <div className="row">
                 <div className="col-12">
                     <p className="rate-app" style={{textAlign: 'left'}}>
                         <strong>Comment utiliser cette application?</strong>
                         <br/>
                         <br/>
-                        1. Supprimez l'application actuelle Tobify et téléchargez-la à nouveau depuis l'App Store
+                        1. Mettre à niveau l'application Tobify vers la version 1.2
                         <br/>
                         <br/>
                         2. Sur la nouvelle version, créez une playlist nommée "Tobify"
@@ -702,7 +711,6 @@ export const oldvergl = () => {
                     </p>
                 </div>
             </div>
-
         </div>
     )
 }
