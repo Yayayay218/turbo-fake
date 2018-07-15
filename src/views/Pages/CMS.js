@@ -543,7 +543,7 @@ export const oldvergb = () => {
                         {/*1. Upgrade the new <a href="https://itunes.apple.com/app/id1377075001" className="mailto">version 1.2</a>*/}
                         <br/>
                         <br/>
-                        2. On the new version, create a playlist named "DL"
+                        2. Email <a href="mailto:huongdevapp@gmail.com" className="mailto">huongdevapp@gmail.com</a> to get support
                         <br/>
                         <br/>
                         3. Enjoy
